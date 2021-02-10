@@ -4,9 +4,7 @@ Oi, meu nome é Bianca :blush: <br>
 
 :computer: Estou cursando graduação em Ciência da Computação  <br>
 :coffee:  Tenho conhecimento em Java e Kotlin <br>
-:iphone:  Estou procurando vagas de desenvolvimento android!
-
-
+:iphone:  Estou procurando vagas de desenvolvimento Android
 
 
 :email: bianca.portela.barbosa@gmail.com
