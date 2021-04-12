@@ -1,6 +1,6 @@
-<h5 align="center">:green_heart: ANDROID DEVELOPER :green_heart:</h5>
+﻿<h5 align="center">:green_heart: ANDROID DEVELOPER :green_heart:</h5>
 
-Oi, meu nome é Bianca :blush: <br>
+Olá, meu nome é Bianca :blush: <br>
 
 :computer: Cursando graduação em Ciência da Computação  <br>
 :coffee:  Conhecimento em Java e Kotlin <br>
