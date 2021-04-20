@@ -1,10 +1,11 @@
-﻿<h5 align="center">:green_heart: ANDROID DEVELOPER :green_heart:</h5>
+﻿<h5 align="center">:green_heart: ANDROID AND BACKEND DEVELOPER :blue_heart:</h5>
 
 Olá, meu nome é Bianca :blush: <br>
 
 :computer: Cursando graduação em Ciência da Computação  <br>
 :coffee:  Conhecimento em Java e Kotlin <br>
-:iphone:  Procurando vagas de desenvolvimento Android
+:iphone:  Desenvolvimento Android e Backend <br>
+🖌️ Entusiasta UX|UI Design
 
 
 :email: bianca.portela.barbosa@gmail.com
