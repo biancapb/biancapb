@@ -5,6 +5,7 @@ Olá, meu nome é Bianca :blush: <br>
 :computer: Cursando graduação em Ciência da Computação  <br>
 :coffee:  Conhecimento em Java e Kotlin <br>
 :iphone:  Desenvolvimento Android e Backend <br>
+🔥 Conhecimento em Firebase
 🖌️ Entusiasta UX|UI Design
 
 
