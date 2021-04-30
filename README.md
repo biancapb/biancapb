@@ -9,7 +9,7 @@ Olá, meu nome é Bianca :blush: <br>
 🖌️ Entusiasta UX|UI Design
 
 
-:email: bianca.portela.barbosa@gmail.com
+:email: bpbarbosa.developer@gmail.com
 
 <!--
 **biancapb/biancapb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
