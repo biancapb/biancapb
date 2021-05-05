@@ -11,6 +11,11 @@ Olá, meu nome é Bianca :blush: <br>
 
 :email: bpbarbosa.developer@gmail.com
 
+
+![Bianca's GitHub stats](https://github-readme-stats.vercel.app/api?username=biancapb&hide=contribs,prs,issue&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biancapb&layout=compact&theme=dracula)
+
 <!--
 **biancapb/biancapb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
