@@ -12,9 +12,9 @@ Olá, meu nome é Bianca :blush: <br>
 :email: bpbarbosa.developer@gmail.com
 
 
-![Bianca's GitHub stats](https://github-readme-stats.vercel.app/api?username=biancapb&hide=contribs,prs,issue&theme=dracula)
+![Bianca's GitHub stats](https://github-readme-stats.vercel.app/api?username=biancapb&hide=contribs,prs,issues&theme=tokyonight&border_radius=15)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biancapb&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biancapb&layout=compact&theme=tokyonight&border_radius=15)
 
 
 
