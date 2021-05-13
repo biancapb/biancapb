@@ -8,7 +8,6 @@ Olá, meu nome é Bianca :blush: <br>
 🔥 Conhecimento em Firebase <br>
 🖌️ Entusiasta UX|UI Design
 
-
 :email: bpbarbosa.developer@gmail.com
 
 <h1 align="center">
