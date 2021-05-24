@@ -12,7 +12,7 @@ Olá, meu nome é Bianca :blush: <br>
 
 <h1 align="center">
 
-![Bianca's GitHub stats](https://github-readme-stats.vercel.app/api?username=biancapb&hide=contribs,prs,issues&theme=tokyonight&border_radius=15&hide_border=true)
+![Bianca's GitHub stats](https://github-readme-stats.vercel.app/api?username=biancapb&hide=prs,issues&theme=tokyonight&border_radius=15&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biancapb&layout=compact&theme=tokyonight&border_radius=15&hide_border=true)
 
