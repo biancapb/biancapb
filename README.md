@@ -18,6 +18,7 @@ Olá, meu nome é Bianca :blush: <br>
 
 </h1>
 
+<a href="https://www.linkedin.com/in/biancapb/" target="_blank">LinkedIn </a>
 
 <!-- ![](https://komarev.com/ghpvc/?username=your-github-biancapb) -->
 
