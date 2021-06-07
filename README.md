@@ -20,7 +20,7 @@ Olá, meu nome é Bianca :blush: <br>
 
 <a href="https://www.linkedin.com/in/biancapb/" target="_blank">LinkedIn </a>
 
-<!-- ![](https://komarev.com/ghpvc/?username=your-github-biancapb) -->
+![](https://komarev.com/ghpvc/?username=your-github-biancapb) 
 
 <!--
 **biancapb/biancapb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
