@@ -1,4 +1,4 @@
-﻿<h5 align="center">:green_heart: ANDROID AND BACKEND DEVELOPER :blue_heart:</h5>
+﻿<h6 align="center">:green_heart: ANDROID AND BACKEND DEVELOPER :blue_heart:</h6>
 
 Olá, meu nome é Bianca :blush: <br>
 
@@ -19,6 +19,7 @@ Olá, meu nome é Bianca :blush: <br>
 </h1>
 
 <a href="https://www.linkedin.com/in/biancapb/" target="_blank">LinkedIn </a>
+<a href="mailto:bpbarbosa.developer@gmail.com" target="_blank">E-mail </a>
 
 ![](https://komarev.com/ghpvc/?username=your-github-biancapb) 
 
