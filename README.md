@@ -19,10 +19,14 @@ Olá, meu nome é Bianca :blush: <br>
 
 </h1>
 
-<a href="https://www.linkedin.com/in/biancapb/" target="_blank">LinkedIn </a>
-<a href="mailto:bpbarbosa.developer@gmail.com" target="_blank">E-mail </a>
+<br>
 
 ![](https://komarev.com/ghpvc/?username=your-github-biancapb) 
+
+[<img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />](https://www.linkedin.com/in/biancapb/) 
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" target="_blank">](https://www.instagram.com/yuu_shiro/)
+[<img src = "https://img.shields.io/badge/email-%23E54949.svg?&style=for-the-badge&logo=gmail&logoColor=white" target="_blank">](mailto:bpbarbosa.developer@gmail.com)
+
 
 <!--
 **biancapb/biancapb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
