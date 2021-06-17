@@ -9,8 +9,6 @@ Olá, meu nome é Bianca :blush: <br>
 🔥 Conhecimento em Firebase <br>
 🖌️ Entusiasta UX|UI Design
 
-:email: bpbarbosa.developer@gmail.com
-
 <h1 align="center">
 
 ![Bianca's GitHub stats](https://github-readme-stats.vercel.app/api?username=biancapb&hide=prs,issues&theme=tokyonight&border_radius=15&hide_border=true)
