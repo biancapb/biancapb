@@ -1,4 +1,4 @@
-﻿<h6 align="center">:green_heart: ANDROID AND BACKEND DEVELOPER :blue_heart:</h6>
+﻿<h3 align="center">:green_heart: ANDROID AND BACKEND DEVELOPER :blue_heart:</h3>
 
 Olá, meu nome é Bianca :blush: <br>
 
