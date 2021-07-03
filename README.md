@@ -14,12 +14,10 @@ Olá, meu nome é Bianca :blush: <br>
 ![Bianca's GitHub stats](https://github-readme-stats.vercel.app/api?username=biancapb&hide=prs,issues&theme=tokyonight&border_radius=15&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biancapb&layout=compact&theme=tokyonight&border_radius=15&hide_border=true)
-  
 
-[![Bianca's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=biancapb&theme=tokyonight&hide_border=true&border_radius=15)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Bianca's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=biancapb&theme=tokyonight&border_radius=15&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 </h1>
-
 <br>
 
 ![](https://komarev.com/ghpvc/?username=your-github-biancapb) 
