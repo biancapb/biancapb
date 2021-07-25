@@ -16,6 +16,8 @@ Olá, meu nome é Bianca :blush: <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biancapb&layout=compact&theme=tokyonight&border_radius=15&hide_border=true)
 
 [![Bianca's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=biancapb&theme=tokyonight&border_radius=15&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+  
+[![Bianca's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=biancapb&theme=dracula&bg_color=1a1b27&hide_border=true&border_radius=15&color=70A4FC&point=38bdae&line=be90f2)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </h1>
 <br>
@@ -25,6 +27,9 @@ Olá, meu nome é Bianca :blush: <br>
 [<img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />](https://www.linkedin.com/in/biancapb/) 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" target="_blank">](https://www.instagram.com/yuu_shiro/)
 [<img src = "https://img.shields.io/badge/email-%23E54949.svg?&style=for-the-badge&logo=gmail&logoColor=white" target="_blank">](mailto:bpbarbosa.developer@gmail.com)
+
+
+
 
 <!--
 **biancapb/biancapb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
