@@ -15,9 +15,9 @@ Olá, meu nome é Bianca :blush: <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biancapb&layout=compact&theme=tokyonight&border_radius=15&hide_border=true)
 
-[![Bianca's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=biancapb&theme=tokyonight&border_radius=15&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Bianca's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=biancapb&theme=tokyonight&border_radius=15&hide_border=true)]
   
-[![Bianca's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=biancapb&theme=dracula&bg_color=1a1b27&hide_border=true&border_radius=15&color=70A4FC&point=38bdae&line=be90f2)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Bianca's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=biancapb&theme=dracula&bg_color=1a1b27&hide_border=true&border_radius=15&color=70A4FC&point=38bdae&line=be90f2)]
 
 </h1>
 <br>
