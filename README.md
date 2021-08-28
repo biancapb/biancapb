@@ -31,9 +31,7 @@ Olá, meu nome é Bianca :blush: <br>
 [<img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />](https://www.linkedin.com/in/biancapb/) 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" target="_blank">](https://www.instagram.com/yuu_shiro/)
 [<img src = "https://img.shields.io/badge/email-%23E54949.svg?&style=for-the-badge&logo=gmail&logoColor=white" target="_blank">](mailto:bpbarbosa.developer@gmail.com)
-
-
-
+[<img src = "https://i.pinimg.com/originals/e7/dd/c1/e7ddc1210289712ccf189faf56c756be.gif" align="right" width="60" height="60">]()
 
 <!--
 **biancapb/biancapb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
