@@ -1,5 +1,9 @@
 ﻿<h4 align="center">:green_heart: ANDROID AND BACKEND DEVELOPER :blue_heart:</h3>
 
+<p align="center">
+<a href="https:/www.pinterest.se"><img src="https://i.pinimg.com/originals/81/15/f2/8115f29aacdc37d6e3bfcf48ff2cc0ee.gif" /> </a>
+</p>
+
 Olá, meu nome é Bianca :blush: <br>
 
 :computer: Cursando graduação em Ciência da Computação  <br>
@@ -8,7 +12,7 @@ Olá, meu nome é Bianca :blush: <br>
 🎲 Entendimento em MySQL e MongoDB <br>
 🔥 Conhecimento em Firebase <br>
 🖌️ Entusiasta UX|UI Design
-
+  
 <h1 align="center">
 
 ![Bianca's GitHub stats](https://github-readme-stats.vercel.app/api?username=biancapb&hide=prs,issues&theme=tokyonight&border_radius=15&hide_border=true)
