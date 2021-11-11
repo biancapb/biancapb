@@ -41,7 +41,7 @@ Tools: <br>
 <img src="https://img.icons8.com/color/48/000000/css3.png" width="57" height="57" align="center" />
 -->
   
-![Bianca's GitHub stats](https://github-readme-stats.vercel.app/api?username=biancapb&hide=prs,issues&theme=tokyonight&border_radius=15&hide_border=true)
+![Bianca's GitHub stats](https://github-readme-stats.vercel.app/api?username=biancapb&hide=issues&theme=tokyonight&border_radius=15&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biancapb&layout=compact&theme=tokyonight&border_radius=15&hide_border=true)
 
