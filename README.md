@@ -1,4 +1,4 @@
-﻿<h4 align="center">:green_heart: ANDROID AND BACKEND DEVELOPER :blue_heart:</h3>
+﻿<h4 align="center">:green_heart: DEVELOPER :blue_heart:</h3>
 
 <p align="center">
 <a href="https:/www.pinterest.se"><img src="https://i.pinimg.com/originals/81/15/f2/8115f29aacdc37d6e3bfcf48ff2cc0ee.gif" /> </a>
@@ -7,8 +7,9 @@
 Olá, meu nome é Bianca :blush: <br>
 
 :computer: Graduada em Ciência da Computação  <br>
-:coffee:  Conhecimento em Java e Kotlin <br>
-:iphone:  Desenvolvimento Android e Backend <br>
+:coffee:  Conhecimento em Java, Kotlin e TypeScript <br>
+✨ Entendimento em ReactJS e Angular <br>
+:iphone:  Desenvolvimento Android, Backend e Frontend <br>
 🎲 Entendimento em MySQL e MongoDB <br>
 🔥 Conhecimento em Firebase <br>
 🖌️ Entusiasta UX|UI Design
