@@ -12,7 +12,9 @@ Olá, meu nome é Bianca :blush: <br>
 :iphone:  Desenvolvimento Android, Backend e Frontend <br>
 🎲 Entendimento em MySQL e MongoDB <br>
 🔥 Conhecimento em Firebase <br>
+🔗 Conhecimento em Wordpress
 🖌️ Entusiasta UX|UI Design
+🌎 Inglês e Francês
   
 <h1 align="center">
 
