@@ -31,9 +31,7 @@ Tools: <br>
 
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" width="52" height="52" align="center" />
 
-
 </p> 
-
 
 <p align="left">
 
@@ -44,10 +42,17 @@ Tools: <br>
 <img src="https://img.icons8.com/color/48/000000/css3.png" width="57" height="57" align="center" />
 -->
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancapb&layout=demo&theme=tokyonight&border_radius=15&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancapb&layout=demo&theme=tokyonight&border_radius=15&hide_border=true" />
 
-![Bianca's GitHub stats](https://github-readme-stats.vercel.app/api?username=biancapb&hide=issues&theme=tokyonight&border_radius=15&hide_border=true)
+<a href="https://github.com/anuraghazra/convoychat%22%3E">
 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=biancapb&hide=issues&theme=tokyonight&border_radius=15&hide_border=true&show_icons=true&diplay=flex" />
+
+</a>
+
+<!--![Bianca's GitHub stats](https://github-readme-stats.vercel.app/api?username=biancapb&hide=issues&theme=tokyonight&border_radius=15&hide_border=true) -->
+
+  
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biancapb&layout=compact&theme=tokyonight&border_radius=15&hide_border=true) -->
 
 <!--![Bianca's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=biancapb&theme=tokyonight&border_radius=15&hide_border=true)-->
@@ -63,6 +68,7 @@ Tools: <br>
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" target="_blank">](https://www.instagram.com/yuu_shiro/)
 [<img src = "https://img.shields.io/badge/email-%23E54949.svg?&style=for-the-badge&logo=gmail&logoColor=white" target="_blank">](mailto:bpbarbosa.developer@gmail.com)
 [<img src = "https://i.pinimg.com/originals/e7/dd/c1/e7ddc1210289712ccf189faf56c756be.gif" align="right" width="60" height="60">]()
+
 
 <!--
 **biancapb/biancapb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
