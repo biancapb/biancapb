@@ -7,7 +7,7 @@
 Olá, meu nome é Bianca :blush: <br>
 
 🎓 Graduada em Ciência da Computação  <br>
-:coffee:  Conhecimento em Java, Kotlin e TypeScript <br>
+:coffee:  Conhecimento em Kotlin e TypeScript <br>
 ✨ Entendimento em ReactJS e Angular <br>
 :computer: Conhecimento em Wordpress <br>
 :iphone:  Desenvolvimento Android, Backend e Frontend <br>
