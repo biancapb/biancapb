@@ -1,7 +1,7 @@
 ﻿<h4 align="center">:green_heart: DEVELOPER :blue_heart:</h3>
 
-<p align="center">
-<a href="https:/www.pinterest.se"><img src="https://i.pinimg.com/originals/81/15/f2/8115f29aacdc37d6e3bfcf48ff2cc0ee.gif" /> </a>
+<!-- <p align="center">
+<a href="https:/www.pinterest.se"><img src="https://i.pinimg.com/originals/81/15/f2/8115f29aacdc37d6e3bfcf48ff2cc0ee.gif" /> </a> -->
 </p>
 
 Olá, meu nome é Bianca :blush: <br>
