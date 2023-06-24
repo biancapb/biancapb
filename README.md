@@ -40,7 +40,7 @@ Tools: <br>
 <img src="https://user-images.githubusercontent.com/85083611/122487433-a20f3a00-cfb1-11eb-9693-218c48f60620.png" width="45" height="45" align="center" />
 
 <img src="https://img.icons8.com/color/48/000000/css3.png" width="57" height="57" align="center" />
--->
+
   
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancapb&layout=demo&theme=tokyonight&border_radius=15&hide_border=true" />
 
@@ -49,7 +49,7 @@ Tools: <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=biancapb&hide=issues&theme=tokyonight&border_radius=15&hide_border=true&show_icons=true&diplay=flex" />
 
 </a>
-
+-->
 <!--![Bianca's GitHub stats](https://github-readme-stats.vercel.app/api?username=biancapb&hide=issues&theme=tokyonight&border_radius=15&hide_border=true) -->
 
   
