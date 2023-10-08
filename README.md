@@ -16,7 +16,7 @@ Olá, meu nome é Bianca :blush: <br>
 🖌️ Entusiasta UX|UI Design <br>
 🌎 Inglês e Francês
   
-<h1 align="center">
+<h1 align="left">
 
 <!--
   <p align="left">
@@ -50,10 +50,10 @@ Tools: <br>
 
 </a>
 -->
-<!--![Bianca's GitHub stats](https://github-readme-stats.vercel.app/api?username=biancapb&hide=issues&theme=tokyonight&border_radius=15&hide_border=true) -->
+![Bianca's GitHub stats](https://github-readme-stats.vercel.app/api?username=biancapb&hide=issues&theme=tokyonight&border_radius=15&hide_border=true) 
 
   
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biancapb&layout=compact&theme=tokyonight&border_radius=15&hide_border=true) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biancapb&layout=compact&theme=tokyonight&border_radius=15&hide_border=true) 
 
 <!--![Bianca's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=biancapb&theme=tokyonight&border_radius=15&hide_border=true)-->
   
