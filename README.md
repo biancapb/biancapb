@@ -6,15 +6,16 @@
 
 Olá, meu nome é Bianca :blush: <br>
 
-🎓 Graduada em Ciência da Computação  <br>
-:coffee:  Conhecimento em Kotlin e TypeScript <br>
-✨ Entendimento em ReactJS e Angular <br>
-:computer: Conhecimento em Wordpress <br>
-:iphone:  Desenvolvimento Android, Backend e Frontend <br>
-🎲 Entendimento em MySQL e MongoDB <br>
-🔥 Conhecimento em Firebase <br>
+🎓 Graduada em **Ciência da Computação** e Pós-graduanda em **Engenharia de Software** <br>
+:coffee:  Conhecimento em **Kotlin**, **JavaScript** e **TypeScript** <br>
+✨ Entendimento em **React** e **Angular** <br>
+:computer: Conhecimento em **Wordpress** <br>
+:iphone:  Desenvolvimento Android, Backend e **Frontend** <br>
+🎲 Entendimento em **MySQL** e **MongoDB** <br>
+🔥 Conhecimento em **Firebase** <br>
+🎨 Entendimento de **Design System** <br>
 🖌️ Entusiasta UX|UI Design <br>
-🌎 Inglês e Francês
+🌎 Inglês, Francês e Japonês
   
 <h1 align="left">
 
